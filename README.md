@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuno-choi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Tech Blog Badge](https://img.shields.io/badge/-velog-black?style=flat-square&logo=velog&link=https://velog.io/@ililil9482/)](https://velog.io/@ililil9482/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juno-choi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **juno-choi/juno-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
