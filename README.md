@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuno-choi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Tech Blog Badge](https://img.shields.io/badge/-velog-black?style=flat-square&logo=velog&link=https://ililil9482.tistory.com/)](https://ililil9482.tistory.com/)
+[![Tech Blog Badge](https://img.shields.io/badge/-blog-black?style=flat-square&logo=blog&link=https://ililil9482.tistory.com/)](https://ililil9482.tistory.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juno-choi)](https://github.com/anuraghazra/github-readme-stats)
 
