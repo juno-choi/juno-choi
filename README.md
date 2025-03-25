@@ -1,5 +1,9 @@
 ### 👋
 
+[resume](https://catkin-basketball-7fa.notion.site/Choi-jun-ho-1bb6bf9266e680e480eddc4501f318e2?pvs=4)
+
+[portfolio](https://catkin-basketball-7fa.notion.site/19e6bf9266e680f49418e94259438b46?pvs=4)
+
 [![Tech Blog Badge](https://img.shields.io/badge/-blog-yellow?style=flat-square&logo=blog&link=https://ililil9482.tistory.com/)](https://velog.io/@ililil9482/posts)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juno-choi)](https://github.com/anuraghazra/github-readme-stats)
